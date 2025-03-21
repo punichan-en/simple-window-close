@@ -1,0 +1,14 @@
+{
+    "id": "simple-window-close",
+    "name": "Simple Window Close",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "ワンボタンで開いているタブをすべて閉じるシンプルなプラグイン",
+    "author": "Your Name",
+    "isDesktopOnly": false,
+    "authorUrl": "",
+    "fundingUrl": {
+        "Github Sponsor": "https://github.com/sponsors/yourusername"
+    },
+    "main": "main.js"
+}
