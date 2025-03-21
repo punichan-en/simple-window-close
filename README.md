@@ -1,6 +1,7 @@
  # Simple Window Close
 
 Obsidianのシンプルなプラグインです。ワンボタンで開いているタブをすべて閉じることができます。
+🤖 LLM Journeyの一環です
 
 ## 機能
 
